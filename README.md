@@ -8,4 +8,4 @@
 southern1856/southern1856 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-hello! im newto github, i don,t know nothing about developer but im willingn to learn, hopefully i can find the help over here. thanks
+hello! im new to github, i don,t know nothing about developer but im willing to learn, hopefully i can find good the help over here. thanks
