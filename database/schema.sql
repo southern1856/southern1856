@@ -47,8 +47,3 @@ CREATE TABLE contacts (
 CREATE INDEX idx_leads_marketing_property_id ON leads_marketing(property_id);
 CREATE INDEX idx_leads_marketing_pipeline_status ON leads_marketing(pipeline_status);
 CREATE INDEX idx_contacts_property_id ON contacts(property_id);
-```
-
-5. Scroll down and tap **Commit changes**.
-
-I've left out one comment line from the saved file; the SQL commands are exactly the same. Let me know which option you choose, or if you get stuck on any step.
